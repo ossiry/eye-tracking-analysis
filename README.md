@@ -1,14 +1,7 @@
 \## Report
 
-
-
 This repository includes a PDF report written as part of a university course.
-
-The report provides background, methodology, and discussion of the results
-
-presented in the notebook.
-
-
+The report provides background, methodology, and discussion of the results presented in the notebook.
 
 \## Contents
 
@@ -16,16 +9,12 @@ presented in the notebook.
 * &nbsp;Fixation / gaze visualization
 * &nbsp;Exploratory analysis
 
-
-
 \## Requirements
 
 * &nbsp;Python 3.x
 * &nbsp;numpy
 * &nbsp;pandas
 * &nbsp;Matplotlib
-
-
 
 \## Author(s):
 
@@ -37,8 +26,6 @@ presented in the notebook.
 * Petteri Puustinen
 * Ossi Rytkönen
 * Aatu Tolvanen.
-
-
 
 \## Affiliation 
 
