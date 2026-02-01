@@ -25,7 +25,7 @@ The report provides background, methodology, and discussion of the results prese
 * Meeri-Maria Lakka
 * Petteri Puustinen
 * Ossi Rytkönen
-* Aatu Tolvanen.
+* Aatu Tolvanen
 
 \## Affiliation 
 
